@@ -1,4 +1,5 @@
-# [![PrivateBin](https://cdn.rawgit.com/PrivateBin/assets/master/images/preview/logoSmall.png)](https://privatebin.info/)
+# [![PrivateBin]
+(https://cdn.rawgit.com/PrivateBin/assets/master/images/preview/logoSmall.png)](https://privatebin.info/)
 
 *Current version: 1.7.5*
 
